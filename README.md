@@ -28,7 +28,6 @@ file.close()
     The greatest increase in Profits: 1926159
     The greatest decrease in Profits: -2196167
     
-    _____________________________________________________________________________
 
 VOTING DATA SET - PORTION OF PYTHON CODE:
 
