@@ -48,6 +48,12 @@ file.close()
 
 file.close()
 
+Total number of votes: 86
+Net total amount of Profit/losses: 38382578
+The average in the changes in Profit/losses: -2261.90
+The greatest increase in Profits: 1926159
+The greatest decrease in Profits: -2196167
+
 Total number of votes:3521001
 
 All candidates: 'Khan', 'Correy', 'Li', 'O'Tooley'
