@@ -30,5 +30,22 @@ file.close()
     
 
  # VOTING DATA SET - PORTION OF PYTHON CODE:
+ 
+    print (f"Total number of votes:{(Total_vote)}")
+    print (f"All the candidates:{list(Candidate.keys())}") 
+    file.write(f"Total number of votes:{(Total_vote)}\n")
+    file.write(f"All the candidates:{list(Candidate.keys())}\n")
+    
+    for k, v in Candidate.items():
+        print ('Candidate {} got {} votes which is {:.2f}% of total votes'.format(k, v, v * 100.0 / Total_vote))     
+        file.write('Candidate {} got {} votes which is {:.2f}% of total votes\n'.format(k, v, v * 100.0 / Total_vote))
+        
+        if v > winner_vote_count:
+            winner_vote_count = v
+            winner = k
+    print (f"The winner is: {(winner)}")
+    file.write (f"The winner is: {(winner)}\n")
+
+file.close()
 
 
