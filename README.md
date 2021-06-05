@@ -56,3 +56,6 @@ Candidate Li got 492940 votes which is 14.00% of total votes
 Candidate O'Tooley got 105630 votes which is 3.00% of total votes
 The winner is: Khan
 
+![image](https://user-images.githubusercontent.com/67766966/120906811-2bbe1f80-c622-11eb-9af1-9b445c9f814e.png)
+
+
