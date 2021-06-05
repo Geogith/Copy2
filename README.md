@@ -49,7 +49,7 @@ file.close()
 file.close()
 
 Total number of votes:3521001
-All the candidates:['Khan', 'Correy', 'Li', "O'Tooley"]
+
 Candidate Khan got 2218231 votes which is 63.00% of total votes
 Candidate Correy got 704200 votes which is 20.00% of total votes
 Candidate Li got 492940 votes which is 14.00% of total votes
