@@ -22,6 +22,14 @@ FINANCIAL DATA SET - PORTION OF PYTHON CODE:
 
 file.close()
 
+    Total number of months: 86
+    Net total amount of Profit/losses: 38382578
+    The average in the changes in Profit/losses: -2261.90
+    The greatest increase in Profits: 1926159
+    The greatest decrease in Profits: -2196167
+    
+    _____________________________________________________________________________
+
 VOTING DATA SET - PORTION OF PYTHON CODE:
 
 
