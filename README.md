@@ -48,23 +48,7 @@ file.close()
 
 file.close()
 
-Total number of votes: 86
-Net total amount of Profit/losses: 38382578
-The average in the changes in Profit/losses: -2261.90
-The greatest increase in Profits: 1926159
-The greatest decrease in Profits: -2196167
 
-Total number of votes:3521001
-
-All candidates: 'Khan', 'Correy', 'Li', 'O'Tooley'
-
-Candidate Khan got 2218231 votes which is 63.00% of total votes
-
-Candidate Correy got 704200 votes which is 20.00% of total votes
-
-Candidate Li got 492940 votes which is 14.00% of total votes
-Candidate O'Tooley got 105630 votes which is 3.00% of total votes
-The winner is: Khan
 
 
 
