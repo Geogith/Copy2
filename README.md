@@ -1,5 +1,4 @@
-# Using Python for "Big Data" Analysis
-________________________
+# Using Python for "Big Data" Analysis________________________
 
 # SUMMARY
 
