@@ -55,3 +55,10 @@ file.close()
     Candidate Li got 492940 votes which is 14.00% of total votes
     Candidate O'Tooley got 105630 votes which is 3.00% of total votes
     The winner is: Khan
+    
+      ______________________________________________________________________________________________________________________________________
+  
+  # Contact:
+  
+    Email: 
+    rocklady4@gmail.com
