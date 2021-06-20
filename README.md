@@ -1,4 +1,4 @@
-# Using Python for "Big Data" Analysis
+# Using Python for Financial and Voting Data Analysis
 
 # SUMMARY
 
